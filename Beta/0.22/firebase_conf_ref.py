@@ -1,6 +1,6 @@
 firebaseConf={'apiKey': "XXXXX",
     'authDomain': "XXXXX",
-    'databaseURL': XXXXX",
+    'databaseURL': "XXXXX",
     'projectId': "XXXXX",
     'storageBucket': "XXXXX",
     'messagingSenderId': "XXXXX",
