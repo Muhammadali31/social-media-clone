@@ -3,9 +3,9 @@
 
 ======UPDATES======
 * New UI
-* Posts now show up in the home page
+
+======CHHANGES======
+* There can now only be 1 post at a time and the post is updated when a new one comes in
 
 ======FUTURE=UPDATES======
-* Implementation of multiple posts being viewed
-* Images being sent
-* Showing the email who sent the post and what time it was sent at
+* Showing post on the home page
